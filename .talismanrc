@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: mysql-install
+  checksum: 7b98d98aa4774b847ab6d3a7aba53a11c4dfff002e757d6bcfd60b67239209c1
+version: ""
